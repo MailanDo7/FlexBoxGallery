@@ -88,6 +88,6 @@ article div {
         flex: 0 0 100%;
     }
     nav, nav ul{
-        flex-direction: culomn;
+        flex-direction: column;
     }
 }
