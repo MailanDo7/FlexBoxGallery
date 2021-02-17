@@ -1,0 +1,10 @@
+@charset "UFT-8";
+
+body {
+    background-image: url("kepek/hatter.jpg");
+    color: whitesmoke;
+}
+
+main,nav,article,asie,footer {
+    border: 1px solid whitesmoke;
+}
